@@ -7,7 +7,7 @@ from openai import OpenAI
 
 # --- 配置区 ---
 client = OpenAI(
-    base_url="https://integrate.api.nvidia.com/v1",
+    base_url="YOUR_BASE_URL",
     api_key="YOUR_API_KEY"
 )
 
