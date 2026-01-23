@@ -33,14 +33,10 @@ pip install -r requirements.txt
 
 ```
 
-### 2. 获取 NVIDIA API Key
-
-前往 [NVIDIA Build](https://build.nvidia.com/explore/discover) 注册并获取你的 `NVAPI_KEY`。
-
 ### 3. 配置与运行
 
-1. **坐标探测**：运行 `pos.py` 捕获你微信窗口的聊天区域和输入框坐标。
-2. **填入配置**：在 `wx.py` 中填入你的 API Key 和坐标数值。
+1. **坐标探测**：运行 `pos.py` 捕获你微信窗口的聊天区域和输入框坐标。（现在不用）
+2. **填入配置**：在 `wx.py` 中填入你的 API Key 和坐标数值。（已一体化）
 3. **启动助手**：
 ```bash
 python wx.py
