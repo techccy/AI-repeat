@@ -36,10 +36,10 @@ pip install -r requirements.txt
 ### 3. 配置与运行
 
 1. **坐标探测**：运行 `pos.py` 捕获你微信窗口的聊天区域和输入框坐标。（现在不用）
-2. **填入配置**：在 `wx.py` 中填入你的 API Key 和坐标数值。（已一体化）
+2. **填入配置**：在 `main.py` 中填入你的 API Key 和坐标数值。（已一体化）
 3. **启动助手**：
 ```bash
-python wx.py
+python main.py
 
 ```
 
@@ -50,7 +50,7 @@ python wx.py
 ## 📂 项目结构
 
 ```text
-├── wx.py           # 主程序
+├── main.py           # 主程序
 ├── pos.py          # 坐标探测小工具
 ├── requirements.txt # 项目依赖清单
 └── README.md       # 项目说明文档
