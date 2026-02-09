@@ -2,7 +2,7 @@
 
 [「ENGLISH」](README_EN.md)
 
-**WeChat AI Assistant (Mac)** 是一款的微信自动化助手。它利用 **EasyOCR** 进行实时屏幕识别，结合 **NVIDIA NIM** 提供的 **DeepSeek-V3** 模型 实现智能对话，并配备了极客风的 **Rich** 终端仪表盘，避免了GeWeChat、WeChatPadPro等需要API接入的风险，适合新手体验
+**WeChat AI Assistant** 是一款的微信自动化助手。它利用 **EasyOCR** 进行实时屏幕识别，结合 **NVIDIA NIM** 提供的 **DeepSeek-V3** 模型 实现智能对话，并配备了极客风的 **Rich** 终端仪表盘，避免了GeWeChat、WeChatPadPro等需要API接入的风险，适合新手体验
 
 ---
 
