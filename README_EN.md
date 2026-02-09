@@ -1,4 +1,7 @@
 # WeChat AI Assistant (Mac) |WeChat AI Intelligent Assistant
+
+[「中文」](README.md)
+
 **WeChat AI Assistant (Mac)** is a WeChat automated assistant. It uses **EasyOCR** for real-time screen recognition, combines the **DeepSeek-V3** model provided by **NVIDIA NIM** to achieve intelligent dialogue, and is equipped with a geek **Rich** terminal dashboard, avoiding the risk of requiring API access such as GeWeChat and WeChatPadPro, making it suitable for novice experience
 ---
 ## Project Features
